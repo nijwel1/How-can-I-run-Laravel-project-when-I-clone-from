@@ -3,7 +3,7 @@
 
 Go to the folder application using cd command on your cmd or terminal
 
-2.Run -> composer install
+2.Run -> composer install  (if version problem "composer install --ignore-platform-reqs")
 
 3.Run -> npm install && npm run dev
 
