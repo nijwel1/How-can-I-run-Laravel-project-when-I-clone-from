@@ -13,8 +13,8 @@ Go to the folder application using cd command on your cmd or terminal
 
 **if has seeder
 
-# php artisan db:seed  (Command to run seeder)
-# php artisan db:seed -–class=UserSeeder  (Command for single seeder run)
+  * php artisan db:seed  (Command to run seeder)
+  * php artisan db:seed -–class=UserSeeder  (Command for single seeder run)
 
 6.Run -> php artisan migrate
 
