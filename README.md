@@ -1,4 +1,4 @@
-# How-can-I-run-Laravel-project-when-I-clone-from
+# How to clone project from github
 1.Clone your project
 
 Go to the folder application using cd command on your cmd or terminal
