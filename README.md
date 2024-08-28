@@ -11,12 +11,12 @@ Go to the folder application using cd command on your cmd or terminal
 
 5.Run -> php artisan key:generate
 
+6.Run -> php artisan migrate
+
 **if has seeder
 
   * php artisan db:seed  (Command to run seeder)
   * php artisan db:seed --class=UserSeeder  (Command for single seeder run)
-
-6.Run -> php artisan migrate
 
 7.Run -> php artisan serve
 
